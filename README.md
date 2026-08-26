@@ -121,8 +121,8 @@ joblib==1.4.2
 
 | Member | Responsibility |
 |---|---|
-| [Name] | Data Cleaning & Preprocessing |
-| [Name] | Regression Modeling (Market Value) |
+| [Ali Baher] | Data Cleaning & Preprocessing |
+| [] | Regression Modeling (Market Value) |
 | [Name] | Overall Rating Model & Feature Engineering |
 | [Name] | Streamlit App & Integration |
 | [Name] | Documentation & Presentation |
